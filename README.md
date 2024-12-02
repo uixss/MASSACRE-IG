@@ -60,7 +60,7 @@ The script uses a configuration dictionary (`CONFIG`) to control the following:
 
 
 ## ⚠️ Disclaimer
-This tool is for educational purposes only. Use responsibly and ensure compliance with Telegram's terms of service.
+This tool is for educational purposes only. Use responsibly and ensure compliance with Instagram's terms of service.
 
 ## 🤝 Contributing
 Feel free to submit issues or pull requests to improve the project!
