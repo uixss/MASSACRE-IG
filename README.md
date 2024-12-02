@@ -7,11 +7,11 @@ This project is for **educational purposes only**. Misuse of this script to viol
 
 ---
 
-# Instagram Report v1 🚨
+# 🚨 Instagram Report v1 
 
 A Python script designed for automating the submission of reports to Instagram's support form. This tool is built for educational purposes and highlights the importance of understanding APIs and headers.
 
-## Example Output 🖥️
+## 🖥️ Example Output 
 
 ```
 [+] Victim UserName : target_username
