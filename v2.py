@@ -64,7 +64,7 @@ def load_emails(file_path):
         print(f"[×] Error: {e}")
         exit()
 
-# Generar data del formulario
+
 def generate_form_data(user, name, email, relation, ts):
     return (
         f'jazoest=2931&lsd=AVq5uabXj48&Field258021274378282={user}&Field735407019826414={name}&'
