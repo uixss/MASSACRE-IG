@@ -3,7 +3,7 @@
 
 This project is for **educational purposes only**. Misuse of this script to violate the terms and policies of any platform, including Instagram, is prohibited. The author is not responsible for any misuse or consequences.
 
- <img src="/data.png" alt="MASSACRE_SESSION2">
+ <img src="./url.png" alt="ig">
 
 ---
 
