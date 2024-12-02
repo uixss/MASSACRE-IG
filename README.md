@@ -57,3 +57,10 @@ The script uses a configuration dictionary (`CONFIG`) to control the following:
 
 - The script uses hardcoded headers and data fields required by Instagram's support form.
 - Ensure to use this responsibly and within the bounds of ethical usage.
+
+
+## ⚠️ Disclaimer
+This tool is for educational purposes only. Use responsibly and ensure compliance with Telegram's terms of service.
+
+## 🤝 Contributing
+Feel free to submit issues or pull requests to improve the project!
